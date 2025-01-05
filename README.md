@@ -24,8 +24,8 @@ GPU support (e.g., NVIDIA CUDA-enabled GPU) is highly recommended for faster tra
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/ShaziaNasim606
+   cd BreakHis-Project
    ```
 2. Install the required libraries:
    ```bash
@@ -37,8 +37,7 @@ The dataset has been resized and preprocessed for use in the models.
 
 The dataset structure after processed and splitting into train and test:
 
-Train Set: /content/drive/MyDrive/BreakHis/BreaKHis_v1/breast_resized/train
-Test Set: /content/drive/MyDrive/BreakHis/BreaKHis_v1/breast_resized/test
+
 # Notebooks
 The repository includes the following notebooks:
 
