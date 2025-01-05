@@ -27,10 +27,6 @@ GPU support (e.g., NVIDIA CUDA-enabled GPU) is highly recommended for faster tra
    git clone https://github.com/ShaziaNasim606
    cd BreakHis-Project
    ```
-2. Install the required libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
 # Dataset
 The BreakHis dataset is used for this project. It contains breast cancer histopathological images categorized into benign and malignant classes. 
 The dataset has been resized and preprocessed for use in the models.
